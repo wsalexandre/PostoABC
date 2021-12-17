@@ -1,0 +1,19 @@
+﻿[btnFechar]
+Coordinates=75,10,72,58
+
+[Panel2]
+Coordinates=10,78,55,58
+
+[dbgTanques]
+Coordinates=75,78,86,36
+
+[]
+Coordinates=10,10,55,58
+Visible=True
+LayerNames=
+
+[Module Settings]
+ModelLayerNames=
+ActiveLayerNames=
+EditingLayerName=
+

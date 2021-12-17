@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/14 11:36:02.000.725,=C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 11:37:11.000.977,C:\Projetos\PostoABC\umain.dfm=C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 11:37:11.000.977,C:\Projetos\PostoABC\umain.pas=C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 11:38:12.000.553,C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\PostoABC.dproj=C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/14 11:39:11.000.372,C:\Projetos\PostoABC\PostoABC.dproj=C:\Users\Notebook\OneDrive\Documentos\Embarcadero\Studio\Projects\PostoABC.dproj</Transaction>
+    <Transaction>2021/12/14 11:42:06.000.591,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 11:42:56.000.661,C:\Projetos\PostoABC\udm.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 11:42:56.000.661,C:\Projetos\PostoABC\udm.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 11:45:32.000.354,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:00:47.000.588,C:\Projetos\PostoABC\uproduto.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:03:54.000.924,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:04:53.000.490,C:\Projetos\PostoABC\uconexao.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:09:10.000.056,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:09:22.000.479,C:\Projetos\PostoABC\utanque.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:10:25.000.299,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 12:11:34.000.594,C:\Projetos\PostoABC\ubomba.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 20:04:55.000.916,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 20:06:35.000.139,C:\Projetos\PostoABC\ftanque.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 20:06:35.000.139,C:\Projetos\PostoABC\ftanque.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 20:37:12.000.845,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 20:40:12.000.534,C:\Projetos\PostoABC\ftanques.pas=C:\Projetos\PostoABC\ftanque.pas</Transaction>
+    <Transaction>2021/12/14 20:40:12.000.534,C:\Projetos\PostoABC\ftanques.dfm=C:\Projetos\PostoABC\ftanque.dfm</Transaction>
+    <Transaction>2021/12/14 20:40:46.000.111,C:\Projetos\PostoABC\ftanque.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/14 20:40:46.000.111,C:\Projetos\PostoABC\ftanque.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:29:47.000.150,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:31:43.000.355,C:\Projetos\PostoABC\Unit1.dfm=C:\Projetos\PostoABC\fbomba.dfm</Transaction>
+    <Transaction>2021/12/14 21:31:43.000.355,C:\Projetos\PostoABC\Unit1.pas=C:\Projetos\PostoABC\fbomba.pas</Transaction>
+    <Transaction>2021/12/14 21:48:33.000.432,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/14 21:51:02.000.984,C:\Projetos\PostoABC\Unit1.pas=C:\Projetos\PostoABC\fbombas.pas</Transaction>
+    <Transaction>2021/12/14 21:51:02.000.984,C:\Projetos\PostoABC\Unit1.dfm=C:\Projetos\PostoABC\fbombas.dfm</Transaction>
+    <Transaction>2021/12/15 13:07:46.000.965,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 13:08:25.000.646,C:\Projetos\PostoABC\fprodutos.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 13:08:25.000.646,C:\Projetos\PostoABC\fprodutos.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/15 13:08:36.000.485,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 13:09:41.000.736,C:\Projetos\PostoABC\fproduto.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 13:09:41.000.736,C:\Projetos\PostoABC\fproduto.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/15 19:23:03.000.376,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 19:28:15.000.630,C:\Projetos\PostoABC\uabastecimento.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 19:45:31.000.654,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 19:46:25.000.706,C:\Projetos\PostoABC\fabastecimentos.dfm=C:\Projetos\PostoABC\Unit1.dfm</Transaction>
+    <Transaction>2021/12/15 19:46:25.000.706,C:\Projetos\PostoABC\fabastecimentos.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 19:48:40.000.274,=C:\Projetos\PostoABC\Unit2.pas</Transaction>
+    <Transaction>2021/12/15 19:50:44.000.293,C:\Projetos\PostoABC\fabastecimento.pas=C:\Projetos\PostoABC\Unit2.pas</Transaction>
+    <Transaction>2021/12/15 19:50:44.000.293,C:\Projetos\PostoABC\fabastecimento.dfm=C:\Projetos\PostoABC\Unit2.dfm</Transaction>
+    <Transaction>2021/12/15 20:32:41.000.350,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 20:32:58.000.440,C:\Projetos\PostoABC\uhelper.pas=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 20:08:35.000.759,=C:\Projetos\PostoABC\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 20:09:23.000.891,C:\Projetos\PostoABC\Unit1.dfm=C:\Users\Notebook\AppData\Roaming\Microsoft\Windows\Network Shortcuts\frelatorio.dfm</Transaction>
+    <Transaction>2021/12/16 20:09:23.000.891,C:\Projetos\PostoABC\Unit1.pas=C:\Users\Notebook\AppData\Roaming\Microsoft\Windows\Network Shortcuts\frelatorio.pas</Transaction>
+  </Transactions>
+</BorlandProject>
